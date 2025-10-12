@@ -1,4 +1,7 @@
-hello wiuhgccvb vnb
-faltu chela tumi
-madarchod
-bappu
+#include<iostream>
+#include<string.h>
+#include<vector>
+
+using namespace std;
+
+ubf3hubu3
